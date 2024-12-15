@@ -1,0 +1,15 @@
+.container12{
+  background-color: rgb(111, 171, 223);
+  width: 500px;
+  position: fixed;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 20%;
+  top: 0px;
+}
+.displayX{
+  display: none;
+}
+.displayY{
+  display: block;
+}
